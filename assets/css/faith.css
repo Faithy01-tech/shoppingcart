@@ -1,0 +1,14 @@
+.cohort{
+    color: red; 
+    border-style: dotted;
+    border-width: 50px;
+    text-align: center;
+}
+.girl{
+    color: royalblue;
+}
+.div{height: 200px;
+width: 50px;
+background-color: seagreen;
+}
+

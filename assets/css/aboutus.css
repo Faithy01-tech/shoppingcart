@@ -1,0 +1,12 @@
+body{
+    background-color: green;
+}
+.hort{
+    margin-top: 100px;
+    padding-top: 50px;
+}
+.har{
+    height: 200px;
+    width: 50px;
+    background-color: gold;
+}

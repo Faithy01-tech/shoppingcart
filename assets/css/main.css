@@ -1,0 +1,19 @@
+body{
+    background-color:whitesmoke;
+
+
+}
+.hour {list-style: circle ;}
+.mimi{color: gold;}
+ table,th,td{
+     border:1px solid blue;
+ }
+table {
+    width: 100%;
+}
+    th{
+        background-color: blueviolet;
+    }
+    td{
+        color: chocolate;
+    }

@@ -1,0 +1,39 @@
+body{ background-color: white;
+    text-align: center;
+ }
+ h1{
+     margin: center;
+     text-emphasis-position: center;
+     font-family: 'Times New Roman', Times, serif;
+     font-display: bold;
+     font-size: 80px;
+    }
+.search input[type=text]{
+    padding: 15px;
+    width: 400px;
+    border: 1px solid grey;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    }
+.search button{
+    padding:15px;
+    padding-left: none;
+    width:15px;
+    border:1px solid grey;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background:blue;
+    }
+p{
+    font-family: Georgia;
+    font-size: 20px;
+}
+pre{
+    font-family:Georgia;
+    font-size: 20px;
+    color: blue;
+}
+
+div{
+    text-align: center;
+}
